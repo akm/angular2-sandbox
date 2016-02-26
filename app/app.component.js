@@ -25,6 +25,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                         id: 1,
                         name: 'Windstorm'
                     };
+                    this.heroes = HEROES;
                 }
                 AppComponent = __decorate([
                     core_1.Component({

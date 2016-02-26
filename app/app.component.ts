@@ -24,6 +24,7 @@ export class AppComponent {
         id: 1,
         name: 'Windstorm'
     };
+    public heroes = HEROES;
 }
 
 var HEROES: Hero[] = [
